@@ -1,7 +1,13 @@
 import { Button } from "../components/ui/button";
-import hero from "../assets/hero.jpg";
+import hero from "../assets/hero-banner1.jpg";
 import template1 from "../assets/template1.jpg";
 import template2 from "../assets/template2.jpg";
+import template3 from "../assets/template3.jpg";
+import template4 from "../assets/template4.jpg";
+import template5 from "../assets/template5.jpg";
+import template6 from "../assets/template6.jpg";
+import template7 from "../assets/template7.jpg";
+import template8 from "../assets/template8.jpg";
 
 const Home = () => {
   return (
